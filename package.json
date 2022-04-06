@@ -41,7 +41,7 @@
     "commander": "^2.20.0",
     "http-cache-semantics": "^4.0.3",
     "lru-cache": "^5.1.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "@types/node": "^10.14.10",
