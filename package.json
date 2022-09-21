@@ -34,7 +34,7 @@
   "dependencies": {
     "@dollarshaveclub/node-fetch": "^3.2.0",
     "@peculiar/webcrypto": "1.1.7",
-    "web-streams-polyfill": "^2.0.3",
+    "web-streams-polyfill": "^2.1.1",
     "arraybuffer-equal": "^1.0.4",
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
