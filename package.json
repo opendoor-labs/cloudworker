@@ -33,7 +33,7 @@
   "homepage": "https://github.com/dollarshaveclub/cloudworker#readme",
   "dependencies": {
     "@dollarshaveclub/node-fetch": "^3.2.0",
-    "@peculiar/webcrypto": "1.1.7",
+    "@peculiar/webcrypto": "1.4.0",
     "web-streams-polyfill": "^2.0.3",
     "arraybuffer-equal": "^1.0.4",
     "atob": "^2.1.2",
