@@ -39,7 +39,7 @@
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
     "commander": "^2.20.0",
-    "http-cache-semantics": "^4.0.3",
+    "http-cache-semantics": "^4.1.1",
     "lru-cache": "^5.1.1",
     "moment": "^2.24.0"
   },
